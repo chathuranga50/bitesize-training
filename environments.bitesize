@@ -9,5 +9,5 @@ environments:
         external_url: uabeyc1-spring.bst.prsn-dev.io
         port: 8080 
         ssl: "false"
-        replicas: 1
+        replicas: 2
 
