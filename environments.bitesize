@@ -6,7 +6,7 @@ environments:
       method: rolling-upgrade
     services:
       - name: spring-app
-        external_url: uabeyc1-spring.prsn-dev.io
+        external_url: uabeyc1-spring.bst.prsn-dev.io
         port: 8080 
         ssl: "false"
         replicas: 1
