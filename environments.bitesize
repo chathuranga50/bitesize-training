@@ -1,4 +1,4 @@
-project: sample
+project: uabeyc1
 environments:
   - name: Development
     namespace: sample-dev

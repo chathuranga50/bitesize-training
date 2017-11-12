@@ -1,4 +1,4 @@
-project: sample
+project: uabeyc1
 components:
   - name: spring-app
     os: linux
