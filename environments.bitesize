@@ -1,12 +1,12 @@
 project: uabeyc1
 environments:
   - name: Development
-    namespace: sample-dev
+    namespace: uabeyc1-dev
     deployment:
       method: rolling-upgrade
     services:
       - name: spring-app
-        external_url: hellobite-sample.dev-bite.io
+        external_url: uabeyc1-spring.prsn-dev.io
         port: 8080 
         ssl: "false"
         replicas: 1
